@@ -1,0 +1,7 @@
+main: plugin.Commands
+version: 1.0
+name: Twitter4Miner
+
+commands:
+  tweet:
+    discription: Do the twits that the kids are up to these days.
