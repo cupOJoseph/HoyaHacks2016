@@ -5,3 +5,10 @@ name: Twitter4Miner
 commands:
   tweet:
     discription: Do the twits that the kids are up to these days.
+    usage: /<command> [Message]
+  tlogin:
+    discription: Login to your twitter account IN MINECRAFT!
+    usage: /<command> <username> <password> <verification>
+  tlogout:
+    discription: Logout of your twitter account
+    usage: /<command>
