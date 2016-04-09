@@ -1,14 +1,14 @@
 main: plugin.Commands
 version: 1.0
 name: Twitter4Miner
-
+author: @cupOjoseph
 commands:
   tweet:
-    discription: Do the twits that the kids are up to these days.
+    description: Make a tweet!
     usage: /<command> [Message]
   tlogin:
-    discription: Login to your twitter account IN MINECRAFT!
-    usage: /<command> <username> <password> <verification>
+    description: Login to your twitter account IN MINECRAFT!
+    usage: /<command>
   tlogout:
-    discription: Logout of your twitter account
+    description: Log out of Twitter on this server.
     usage: /<command>

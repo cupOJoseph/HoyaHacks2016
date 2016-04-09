@@ -27,5 +27,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="hoyahack plugin dependency" level="project" />
   </component>
 </module>
